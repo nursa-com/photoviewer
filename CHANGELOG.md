@@ -1,3 +1,10 @@
+# 3.0.7 (2024_04_25)
+### Chore
+
+ - Update to @capacitor/core 6.0.0
+ - Update to @capacitor/ios 6.0.0
+ - Update to @capacitor/android 6.0.0
+
 # 3.0.6 (2023_12_21)
 ### Chore
 

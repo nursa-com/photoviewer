@@ -2,7 +2,7 @@
 <h3 align="center">PHOTO VIEWER</h3>
 <p align="center"><strong><code>@capacitor-community/photoviewer</code></strong></p>
 <br>
-<p align="center" style="font-size:50px;color:red"><strong>Capacitor 5</strong></p>
+<p align="center" style="font-size:50px;color:red"><strong>Capacitor 6</strong></p>
 
 <p align="left">
 Capacitor community plugin for Web and Native Photo Viewer allowing to open fullscreen </p>
@@ -52,7 +52,7 @@ On iOS plugin, the creation of a movie from the pictures stored in the <strong>A
 | ----------------- | ----------------------------------------- | ------ |
 | Quéau Jean Pierre | [jepiqueau](https://github.com/jepiqueau) |        |
 
-## CAPACITOR 5 (Master)
+## CAPACITOR 6 (Master)
 
 For more info on releases:
 
