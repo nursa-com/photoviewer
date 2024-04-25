@@ -9,7 +9,7 @@ export interface PhotoViewerPlugin {
   echo(options: capEchoOptions): Promise<capEchoResult>;
   /**
    * Show the PhotoViewer
-   * 
+   *
    * @param options capShowOptions
    * @return Promise<capShowResult>
    * @since 0.0.1
@@ -18,7 +18,7 @@ export interface PhotoViewerPlugin {
 
   /**
    * Download an image from http and save it locally
-   * 
+   *
    * @param options capHttpOptions
    * @return Promise<capHttpResult>
    * @since 3.0.4
@@ -27,7 +27,7 @@ export interface PhotoViewerPlugin {
 
   /**
    * Get the internal image path list
-   * 
+   *
    * @return Promise<capPaths>
    * @since 3.0.4
    */
@@ -161,7 +161,7 @@ export interface capHttpResult {
    */
   webPath?: string;
   /**
-   * message 
+   * message
    */
   message?: string;
 }
